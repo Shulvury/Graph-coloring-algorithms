@@ -1,5 +1,6 @@
 # Graph-coloring-algorithms
 C++ implementations of TABU search, Hybrid Evolutionary Algorithm / Generic Algorithm, Simulated Annealing, Squaky Wheel Optimization for Graph Colorings used in bachelor thesis
+Codes are modified or built on foundation of C++ implementations of R.M.R. Lewis  
 
 Tabu search -- One exchange neigbourhood
 HEA -- Greedy crossover and others mentioned in 1999 Galinier et al "HEA for Graph Coloring"
